@@ -66,3 +66,4 @@ rate = float(input("Введите курс доллара: "))
 dollars = float(input("Введите сумму в долларах: "))
 print('Сумма в рублях составит:', dollars * rate)
 ```
+
