@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 API_JSON.ipynb
 
+__pycache__
+
+main.py 
